@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [QUANTUM tool](README.md)
+* [Quality and Utility Dimensions](quality-and-utility-dimensions.md)
