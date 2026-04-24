@@ -11,15 +11,11 @@ description: Frequently Asked Questions
 * [What is the difference between accuracy and precision?](quality-and-utility-dimensions.md#q1.-what-is-the-difference-between-accuracy-and-precision)
 * [What is validity?](quality-and-utility-dimensions.md#q2.-what-is-validity)
 * [What is precision?](quality-and-utility-dimensions.md#q3-.-what-is-precision)
-*   [What is accuracy?](quality-and-utility-dimensions.md#q4.-what-is-accuracy)
-
-    <br>
+* [What is accuracy?](quality-and-utility-dimensions.md#q4.-what-is-accuracy)
 
 ### Organizations Maturity Label
 
 * [Data Management refers exclusively to secondary use, or also the primary one?](organizational-maturity-label.md#q1.-data-management-refers-exclusively-to-secondary-use-or-also-the-primary-one)
-
-
 
 ### QUANTUM concepts and QUANTUM tool
 
