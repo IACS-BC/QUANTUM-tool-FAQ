@@ -17,12 +17,12 @@ description: Frequently Asked Questions
 
 ### Organizations Maturity Label
 
-* [Data Management refers exclusively to secondary use, or also the primary one?](organizational-maturity-label.md#q1.-data-management-refers-exclusively-to-secondary-use-or-also-the-primary-one)
+* [Data Management refers exclusively to secondary use, or also the primary one?](organizational-maturity-label-1.md#q1.-data-management-refers-exclusively-to-secondary-use-or-also-the-primary-one)
 
 
 
 ### QUANTUM concepts and QUANTUM tool
 
-* Our researchers are not familiar with PROV-O
-* An example of HealthDCAT-AP
+* [Our researchers are not familiar with PROV-O](organizational-maturity-label.md#q1.-our-researchers-are-not-familiar-with-prov-o)
+* [An example of HealthDCAT-AP](organizational-maturity-label.md#q2.-an-example-of-healthdcat-ap)
 
