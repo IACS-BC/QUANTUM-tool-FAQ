@@ -9,8 +9,9 @@ description: Frequently Asked Questions
 ### Quality and Utility Dimensions
 
 * [What is the difference between accuracy and precision?](quality-and-utility-dimensions.md#what-is-the-difference-between-accuracy-and-precision)
-*   What is validity?
+*   [What is validity?](quality-and-utility-dimensions.md#what-is-validity)
 
     <br>
 
     <br>
+
