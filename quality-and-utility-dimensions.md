@@ -54,6 +54,16 @@ For example, you can check the ratio of records in a measurement table that have
 
 Accuracy and precision are not synonyms. Saying that "Einstein was born in the 19th century" isn't very precise, but it is accurate. Saying that "Einstein was born on September 5, 1925, at 8:35:54 PM" is very precise, but completely inaccurate.
 
+
+
+### Q5.- We have no specific report on quality checks, but we can provide it on-demand
+
+A.- It may occur that a dimension has been assessed to some extent but without having a dedicated report to describe it, or not being publicly available. As long as you can prove somehow the assesed accuracy, you can set it as "**documented**". You may not have a structured report, but if someone (i.e. an HDAB) asks for supporting documentation regarding the accuracy checks made, you should have a way to prove/show which type of ckeck you did and how. If you cannot, then it is "**not documented**".<br>
+
+### Q6.- What does "eligible population" mean?
+
+The "eligible population" depends on the purpose and design of the specific dataset. If the dataset is population-based and aims to cover the entire population of a given territory, the "eligible population" is the population of that entire territory. If it is a specific registry, for example, a tumor registry, the "eligible population" will be the entire population diagnosed with a tumor in the relevant geographic area. Population coverage must be calculated based on this "eligible population." If the dataset is designed as a random sample, the "eligible population" will be the population from which the sampling is performed.
+
 \
 \
 <br>

@@ -26,4 +26,6 @@ description: Frequently Asked Questions
 * [Our researchers are not familiar with PROV-O](quantum-concepts-and-tool-use.md#q1.-our-researchers-are-not-familiar-with-prov-o)
 * [An example of HealthDCAT-AP](quantum-concepts-and-tool-use.md#q2.-an-example-of-healthdcat-ap)
 * [What does "Compliance" refer to in the context of data, and what kind of documentation is required to demonstrate it?](quantum-concepts-and-tool-use.md#q3.-what-does-compliance-refer-to-in-the-context-of-data-and-what-kind-of-documentation-is-required)
+* [We have no specific report on quality checks, but we can provide it on-demand](quality-and-utility-dimensions.md#q5.-we-have-no-specific-report-on-quality-checks-but-we-can-provide-it-on-demand)
+* [What does "eligible population" mean?](quality-and-utility-dimensions.md#q6.-what-does-eligible-population-mean)
 
