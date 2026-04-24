@@ -1,4 +1,4 @@
-# Organizational Maturity Label
+# QUANTUM concepts and tool use
 
 #### Q1.- Our researchers are not familiar with PROV-O
 
@@ -34,3 +34,12 @@ A.-
 
 ```
 
+### Q3.- What does "Compliance" refer to in the context of data, and what kind of documentation is required to demonstrate it?
+
+A.- Compliance refers to the degree to which data and its handling processes adhere to established ethical standards, conventions, protocols, or regulations. Documenting this is crucial to ensure transparency and accountability.
+
+It is important to understand that the need for ethical compliance documentation is not exclusive to clinical trials. It also applies to observational studies and any other research that involves the use of secondary data.
+
+You should include in this attribute, for example, documentation about ethical committee's approval (if needed), Data Protection Impact Assessments, DPOs reportings, security or data protection certifications, etc.
+
+<br>
