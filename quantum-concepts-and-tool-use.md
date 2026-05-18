@@ -42,7 +42,63 @@ It is important to understand that the need for ethical compliance documentation
 
 You should include in this attribute, for example, documentation about ethical committee's approval (if needed), Data Protection Impact Assessments, DPOs reportings, security or data protection certifications, etc.
 
+
+
 ### Q4.- How should 'time to access' be calculated for a dataset with multiple components that have different access times (e.g., a mix of instantly available open data and restricted data that requires approval)?
 
 For a complex dataset with components that have different access times, the reported "time to access" should always be the longest time required. In other words, the metric must represent the total time until all requested components of the dataset are fully available to the user.
 
+
+
+### Q5.- Does the time to access truly reflect data quality?
+
+While not an intrinsic quality dimension of the data itself, access time can be a critical factor in the decision to use a dataset. This metric can be measured by the HDAB, but its scope must be clearly defined.
+
+The measurement should only cover the period from the data holder's reception of the application to the actual data access or release. It must not include the initial application processing time handled by the HDAB.
+
+
+
+### Q6.- How long does it take to complete the survey?
+
+It depends on your level of maturity and your knowledge of your dataset and metadata. If you've already assessed the quality of your datasets and have the documentation, we estimate the survey will take no more than an hour. Based on feedback from other users of the tool, we estimate an investment of one to four hours, depending on your maturity and experience managing datasets. If you assess more than one dataset, subsequent datasets will take much less time.
+
+
+
+### Q7.- What is W3C?
+
+The W3C, or World Wide Web Consortium, is an international organization that develops open standards and protocols for the web to ensure its long-term growth. Its mission is to make the web accessible, secure, and usable for everyone.
+
+### &#x20;Q8.- What is the difference between a catalogue and a dataset?
+
+A Catalogue can have two definitions, comprising: 1. data or 2. metadata.
+
+1. A data Catalogue (or Catalog) is a curated collection of datasets and data services that are managed and published by an organisation or entity.
+2. A data catalogue is a curated collection of metadata about datasets that are managed and published by an organisation or entity.
+
+A Dataset is a collection of data, published or curated by a single source, and available for access or download in one or more formats.
+
+Within the context of the EHDS (European Health Data Space) Regulation proposal \[EUR-Lex 52022PC0197 (Art.44)], access to such datasets must adhere to principles of data minimisation and purpose limitation. This ensures that only the data relevant and necessary for specific processing purposes is provided. This data can be in either anonymised or pseudonymised format depending on the feasibility of achieving the processing objectives.
+
+
+
+### Q9.- What is an RDF?
+
+RDF (Resource Description Framework) is a standard model for describing and structuring data on the web. It represents information as triples, where each triple consists of:
+
+* **Subject** (the entity being described)
+* **Predicate** (the relationship or property of the subject)
+* **Object** (the value or another entity related to the subject)
+
+This structure allows RDF to create interconnected, machine-readable data, enabling data interoperability and linking across different sources.
+
+RDF data can be serialized in various formats, including Turtle, RDF/XML, and JSON-LD, and is commonly used in the Semantic Web, linked data, and metadata management.
+
+RDF is widely used in data catalogs (DCAT), data quality assessment (DQV), and knowledge graphs, ensuring structured and meaningful data representation across platforms.
+
+
+
+### Q10.- Who should be fulfilling the survey?
+
+Regarding the institution, it must be the data owner. If we ask about the person or profile who should be in charge of this task, it is up to each institution. It could be a Data Chief Officer, a Data Quality Manager, or a Data Manager. It is important that the person completing the form be someone with in-depth knowledge of data and its uses.<br>
+
+<br>
