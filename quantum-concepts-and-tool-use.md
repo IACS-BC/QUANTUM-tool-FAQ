@@ -44,13 +44,25 @@ You should include in this attribute, for example, documentation about ethical c
 
 
 
-### Q4.- How should 'time to access' be calculated for a dataset with multiple components that have different access times (e.g., a mix of instantly available open data and restricted data that requires approval)?
+### Q4.- We have no specific report on quality checks, but we can provide it on-demand
+
+It may occur that a dimension has been assessed to some extent but without having a dedicated report to describe it, or not being publicly available. As long as you can prove somehow the assesed accuracy, you can set it as "documented". You may not have a structured report, but if someone (i.e. an HDAB) asks for supporting documentation regarding the accuracy checks made, you should have a way to prove/show which type of ckeck you did and how. If you cannot, then it is "not documented".
+
+
+
+### Q5.- What does "eligible population" mean?
+
+The "eligible population" depends on the purpose and design of the specific dataset. If the dataset is population-based and aims to cover the entire population of a given territory, the "eligible population" is the population of that entire territory. If it is a specific registry, for example, a tumor registry, the "eligible population" will be the entire population diagnosed with a tumor in the relevant geographic area. Population coverage must be calculated based on this "eligible population." If the dataset is designed as a random sample, the "eligible population" will be the population from which the sampling is performed.
+
+
+
+### Q6.- How should 'time to access' be calculated for a dataset with multiple components that have different access times (e.g., a mix of instantly available open data and restricted data that requires approval)?
 
 For a complex dataset with components that have different access times, the reported "time to access" should always be the longest time required. In other words, the metric must represent the total time until all requested components of the dataset are fully available to the user.
 
 
 
-### Q5.- Does the time to access truly reflect data quality?
+### Q7.- Does the time to access truly reflect data quality?
 
 While not an intrinsic quality dimension of the data itself, access time can be a critical factor in the decision to use a dataset. This metric can be measured by the HDAB, but its scope must be clearly defined.
 
@@ -58,17 +70,17 @@ The measurement should only cover the period from the data holder's reception of
 
 
 
-### Q6.- How long does it take to complete the survey?
+### Q8.- How long does it take to complete the survey?
 
 It depends on your level of maturity and your knowledge of your dataset and metadata. If you've already assessed the quality of your datasets and have the documentation, we estimate the survey will take no more than an hour. Based on feedback from other users of the tool, we estimate an investment of one to four hours, depending on your maturity and experience managing datasets. If you assess more than one dataset, subsequent datasets will take much less time.
 
 
 
-### Q7.- What is W3C?
+### Q9.- What is W3C?
 
 The W3C, or World Wide Web Consortium, is an international organization that develops open standards and protocols for the web to ensure its long-term growth. Its mission is to make the web accessible, secure, and usable for everyone.
 
-### &#x20;Q8.- What is the difference between a catalogue and a dataset?
+### &#x20;Q10.- What is the difference between a catalogue and a dataset?
 
 A Catalogue can have two definitions, comprising: 1. data or 2. metadata.
 
@@ -81,7 +93,7 @@ Within the context of the EHDS (European Health Data Space) Regulation proposal 
 
 
 
-### Q9.- What is an RDF?
+### Q11.- What is an RDF?
 
 RDF (Resource Description Framework) is a standard model for describing and structuring data on the web. It represents information as triples, where each triple consists of:
 
@@ -97,21 +109,21 @@ RDF is widely used in data catalogs (DCAT), data quality assessment (DQV), and k
 
 
 
-### Q10.- Who should be fulfilling the survey?
+### Q12.- Who should be fulfilling the survey?
 
 Regarding the institution, it must be the data owner. If we ask about the person or profile who should be in charge of this task, it is up to each institution. It could be a Data Chief Officer, a Data Quality Manager, or a Data Manager. It is important that the person completing the form be someone with in-depth knowledge of data and its uses.
 
 
 
-### Q11.- Is there any difference between the online tool and the docker one?
+### Q13.- Is there any difference between the online tool and the docker one?
 
 No, the use of one or the other is going to depend on your knowledge and experience.<br>
 
-### Q12.- In which order should I insert datasets and catalogues?
+### Q14.- In which order should I insert datasets and catalogues?
 
 The catalogue needs to be created first, afterwards a dataset can be created and linked to a catalogue. The relationship between a catalogue and a dataset is “one to many”, this means that a catalogue can comprise multiple datasets but a dataset can only correspond to one and only one catalogue.
 
-### &#x20;Q13.- How many points do we need to obtain each qualification star?
+### &#x20;Q15.- How many points do we need to obtain each qualification star?
 
 &#x20;★☆☆☆☆ = 25% of DQU reached
 
@@ -125,25 +137,25 @@ The catalogue needs to be created first, afterwards a dataset can be created and
 
 
 
-### Q14.- Is the Quality Label agnostic to data type, or is it different depending on the type of dataset (tabular, image, text, genomic...)?
+### Q16.- Is the Quality Label agnostic to data type, or is it different depending on the type of dataset (tabular, image, text, genomic...)?
 
 It is agnostic to data type data usage and data users.
 
 
 
-### Q15.- Will QUANTUM provide any tools to directly measure the quality of our data, or should we use our own tools and procedures to assess the quality dimensions of our dataset?
+### Q17.- Will QUANTUM provide any tools to directly measure the quality of our data, or should we use our own tools and procedures to assess the quality dimensions of our dataset?
 
 Since the QUANTUM tool has to be agnostic to data type, usage, and user it cannot provide you with specific tools and algorithms. This is also because such tools to be implemented may need to access the real data which for many cases and users is sensitive or in general not allowable. For this reason, it is provided guidelines and recommended approaches to calculate each metric.
 
 
 
-### Q16.- What is a Data Controller?
+### Q18.- What is a Data Controller?
 
 The organization that owns the dataset.
 
 
 
-### Q17.- What is a reporter?
+### Q19.- What is a reporter?
 
 The person using the QUANTUM tool, hence the one performing the quality and utility assessment. In general, this person has good knowledge about the dataset.<br>
 

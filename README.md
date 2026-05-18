@@ -22,8 +22,9 @@ description: Frequently Asked Questions
 * [Our researchers are not familiar with PROV-O](quantum-concepts-and-tool-use.md#q1.-our-researchers-are-not-familiar-with-prov-o)
 * [An example of HealthDCAT-AP](quantum-concepts-and-tool-use.md#q2.-an-example-of-healthdcat-ap)
 * [What does "Compliance" refer to in the context of data, and what kind of documentation is required to demonstrate it?](quantum-concepts-and-tool-use.md#q3.-what-does-compliance-refer-to-in-the-context-of-data-and-what-kind-of-documentation-is-required)
+* [How should 'time to access' be calculated for a dataset with multiple components that have different access times (e.g., a mix of instantly available open data and restricted data that requires approval)?](quantum-concepts-and-tool-use.md#q4.-how-should-time-to-access-be-calculated-for-a-dataset-with-multiple-components-that-have-differe)
 * [We have no specific report on quality checks, but we can provide it on-demand](quality-and-utility-dimensions.md#q5.-we-have-no-specific-report-on-quality-checks-but-we-can-provide-it-on-demand)
 * [What does "eligible population" mean?](quality-and-utility-dimensions.md#q6.-what-does-eligible-population-mean)
-* [How should 'time to access' be calculated for a dataset with multiple components that have different access times (e.g., a mix of instantly available open data and restricted data that requires approval)?](quantum-concepts-and-tool-use.md#q4.-how-should-time-to-access-be-calculated-for-a-dataset-with-multiple-components-that-have-differe)
-* Does the time to access truly reflect data quality?
+*
+* [Does the time to access truly reflect data quality?](quantum-concepts-and-tool-use.md#q5.-does-the-time-to-access-truly-reflect-data-quality)
 
