@@ -42,4 +42,7 @@ It is important to understand that the need for ethical compliance documentation
 
 You should include in this attribute, for example, documentation about ethical committee's approval (if needed), Data Protection Impact Assessments, DPOs reportings, security or data protection certifications, etc.
 
-<br>
+### Q4.- How should 'time to access' be calculated for a dataset with multiple components that have different access times (e.g., a mix of instantly available open data and restricted data that requires approval)?
+
+For a complex dataset with components that have different access times, the reported "time to access" should always be the longest time required. In other words, the metric must represent the total time until all requested components of the dataset are fully available to the user.
+
