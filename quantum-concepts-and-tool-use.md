@@ -99,6 +99,56 @@ RDF is widely used in data catalogs (DCAT), data quality assessment (DQV), and k
 
 ### Q10.- Who should be fulfilling the survey?
 
-Regarding the institution, it must be the data owner. If we ask about the person or profile who should be in charge of this task, it is up to each institution. It could be a Data Chief Officer, a Data Quality Manager, or a Data Manager. It is important that the person completing the form be someone with in-depth knowledge of data and its uses.<br>
+Regarding the institution, it must be the data owner. If we ask about the person or profile who should be in charge of this task, it is up to each institution. It could be a Data Chief Officer, a Data Quality Manager, or a Data Manager. It is important that the person completing the form be someone with in-depth knowledge of data and its uses.
+
+
+
+### Q11.- Is there any difference between the online tool and the docker one?
+
+No, the use of one or the other is going to depend on your knowledge and experience.<br>
+
+### Q12.- In which order should I insert datasets and catalogues?
+
+The catalogue needs to be created first, afterwards a dataset can be created and linked to a catalogue. The relationship between a catalogue and a dataset is “one to many”, this means that a catalogue can comprise multiple datasets but a dataset can only correspond to one and only one catalogue.
+
+### &#x20;Q13.- How many points do we need to obtain each qualification star?
+
+&#x20;★☆☆☆☆ = 25% of DQU reached
+
+★★☆☆☆ = 45% of DQU reached
+
+★★★☆☆ = 60% of DQU reached
+
+★★★★☆ = 80% of DQU reached
+
+★★★★★ = ≥90% of DQU reached
+
+
+
+### Q14.- Is the Quality Label agnostic to data type, or is it different depending on the type of dataset (tabular, image, text, genomic...)?
+
+It is agnostic to data type data usage and data users.
+
+
+
+### Q15.- Will QUANTUM provide any tools to directly measure the quality of our data, or should we use our own tools and procedures to assess the quality dimensions of our dataset?
+
+Since the QUANTUM tool has to be agnostic to data type, usage, and user it cannot provide you with specific tools and algorithms. This is also because such tools to be implemented may need to access the real data which for many cases and users is sensitive or in general not allowable. For this reason, it is provided guidelines and recommended approaches to calculate each metric.
+
+
+
+### Q16.- What is a Data Controller?
+
+The organization that owns the dataset.
+
+
+
+### Q17.- What is a reporter?
+
+The person using the QUANTUM tool, hence the one performing the quality and utility assessment. In general, this person has good knowledge about the dataset.<br>
+
+<br>
+
+
 
 <br>
